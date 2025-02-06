@@ -3,3 +3,10 @@ asydugauyisdgauysdgausydguaygduyagds]
 aduygasdyugauydgauydgauydgauydgauydgauygdauygdauygdyuadg
 
 commits
+@Entity
+class Aluno{
+	@Id @GeneratedValue
+	private BigDecimal id;
+
+}
+
